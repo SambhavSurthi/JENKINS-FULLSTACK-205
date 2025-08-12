@@ -254,3 +254,4 @@
 2025-08-11 10:14:09,458 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-08-11 10:14:09,460 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-08-11 10:14:09,464 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD-Cloud-DevOps\JENKINS\JENKINS-FULLSTACK\STUDENTAPI-SPRINGBOOT\src\test\resources
+2025-08-12 11:13:45,173 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
